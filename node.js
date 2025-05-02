@@ -9,3 +9,9 @@ console.log(sum(2,));
  function firstPullRequest(){
     console.log("This is my first pull request!");
 }
+
+// adding second pull request 
+// 2.
+function firstPullRequest(){
+    console.log("This is my first pull request!");
+}

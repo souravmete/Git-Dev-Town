@@ -15,3 +15,8 @@ console.log(sum(2,));
 function firstPullRequest(){
     console.log("This is my first pull request!");
 }
+
+// third pull request
+function thirdPullRequest(){
+    console.log("This is my Third pull request!");
+}

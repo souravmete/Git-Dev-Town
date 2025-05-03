@@ -30,3 +30,8 @@ function fourthPullRequest(){
 function fifthFullRequest(){
     console.log("This is my fifth pull request!");
 }
+
+// sixth pull request
+function sixthFullRequest(){
+    console.log("This is my sixth pull request!");
+}
